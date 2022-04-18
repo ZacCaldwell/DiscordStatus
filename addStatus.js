@@ -9,7 +9,7 @@ const client = new Client({
 });
 
 client.on("ready", () => {
-    client.user.setActivity("You have been warned...", {
+    client.user.setActivity("Status queue", {
         type: "PLAYING",
     });
     console.log("Bot online");
