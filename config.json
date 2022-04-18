@@ -1,0 +1,6 @@
+{
+    "auth": "Discord_Auth_Token",
+    "mongooseURL": "MogoDB_Database_URL",
+    "botToken": "Discord_Bot_Token",
+    "channelID": "Dm_Channel_ID"
+}
